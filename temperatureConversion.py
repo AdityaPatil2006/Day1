@@ -22,4 +22,5 @@ while True:
     if continue_ch != "yes":
         print("Exiting the Temperature Conversion")
         print("Good Bye!")
+        print("Thanks for using convertor")
         break
